@@ -7,18 +7,20 @@
 - 📫 How to reach me: https://linkedin.com/in/jewerspeters
 - 🔭 I recently started a blog, check it out: https://ewerspej.hashnode.dev
 - 🌱 I’m currently learning how to work around some of the intricate issues of .NET MAUI
-- 🗪 Apart from C# and C++, I speak German and English as well as some Spanish and Portuguese
+- 🤟 Apart from C# and C++, I speak German and English as well as some Spanish and Portuguese
 
-
+### Cross-platform App Development
 Hit me up if you are interested in building a cross-platform app with Xamarin.Forms or .NET MAUI.
 
-I am happy to help you get started, design and develop your app and even push it to the app stores. 
+I am happy to help you get started, design and develop your app and push it to the app stores. 
 
-#### :books: Recent Blog Posts
+### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🔥 [A simple way to implement Dark Mode in .NET MAUI](https://ewerspej.hashnode.dev/implement-dark-mode-in-net-maui)
- - 🌮 [Console.WriteLine&lpar;&quot;Hello, Developers&quot;&rpar;;](https://ewerspej.hashnode.dev/hello-developers)<!-- BLOGPOSTS:END -->
+ - 🌮 [Console.WriteLine&lpar;&quot;Hello, Developers&quot;&rpar;;](https://ewerspej.hashnode.dev/hello-developers)
+<!-- BLOGPOSTS:END -->
 
+### Follow Me
 <div>
     <a href="https://linkedin.com/in/jewerspeters">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
@@ -26,6 +28,10 @@ I am happy to help you get started, design and develop your app and even push it
     <a href="https://ewerspej.hashnode.dev">
         <img src="https://img.shields.io/badge/Hashnode-Blog-394b54" />
     </a>
+</div>
+
+### Custom Controls for MAUI
+<div>
     <a href="https://github.com/ewerspej/epj.ProgressBar.Maui">
         <img src="https://img.shields.io/badge/ProgressBar-Maui-brightgreen?logo=github" />
     </a>
