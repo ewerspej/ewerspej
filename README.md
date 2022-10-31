@@ -14,6 +14,10 @@ Hit me up if you are interested in building a cross-platform app with Xamarin.Fo
 
 I am happy to help you get started, design and develop your app and even push it to the app stores. 
 
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 <div>
     <a href="https://linkedin.com/in/jewerspeters">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
