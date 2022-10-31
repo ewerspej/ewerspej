@@ -16,7 +16,8 @@ I am happy to help you get started, design and develop your app and even push it
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🔥 [A simple way to implement Dark Mode in .NET MAUI](https://ewerspej.hashnode.dev/implement-dark-mode-in-net-maui)
+ - 🌮 [Console.WriteLine&lpar;&quot;Hello, Developers&quot;&rpar;;](https://ewerspej.hashnode.dev/hello-developers)<!-- BLOGPOSTS:END -->
 
 <div>
     <a href="https://linkedin.com/in/jewerspeters">
