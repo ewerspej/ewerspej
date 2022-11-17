@@ -16,9 +16,10 @@ I am happy to help you get started, design and develop your app and push it to t
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Multi-Targeting in .NET MAUI - Part 1](https://ewerspej.hashnode.dev/multi-targeting-in-net-maui-part-1)
- - 🌮 [Let&#39;s customize the Splash Screen of a MAUI app](https://ewerspej.hashnode.dev/lets-customize-the-splash-screen-of-a-maui-app)
- - 🚀 [A simple way to implement Dark Mode in .NET MAUI](https://ewerspej.hashnode.dev/implement-dark-mode-in-net-maui)
+ - 🔥 [Multi-Targeting in .NET MAUI - Part 2](https://ewerspej.hashnode.dev/multi-targeting-in-net-maui-part-2)
+ - 🌮 [Multi-Targeting in .NET MAUI - Part 1](https://ewerspej.hashnode.dev/multi-targeting-in-net-maui-part-1)
+ - 🚀 [Let&#39;s customize the Splash Screen of a MAUI app](https://ewerspej.hashnode.dev/lets-customize-the-splash-screen-of-a-maui-app)
+ - 💯 [A simple way to implement Dark Mode in .NET MAUI](https://ewerspej.hashnode.dev/implement-dark-mode-in-net-maui)
  - 💯 [Console.WriteLine&lpar;&quot;Hello, Developers&quot;&rpar;;](https://ewerspej.hashnode.dev/hello-developers)<!-- BLOGPOSTS:END -->
 
 ### Follow Me
