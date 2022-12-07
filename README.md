@@ -37,8 +37,11 @@ I am happy to help you get started, design and develop your app and push it to t
     <a href="https://github.com/ewerspej/epj.ProgressBar.Maui">
         <img src="https://img.shields.io/badge/ProgressBar-Maui-brightgreen?logo=github" />
     </a>
-        <a href="https://github.com/ewerspej/epj.RadialDial.Maui">
+    <a href="https://github.com/ewerspej/epj.RadialDial.Maui">
         <img src="https://img.shields.io/badge/RadialDial-Maui-brightgreen?logo=github" />
+    </a>
+    <a href="https://github.com/ewerspej/epj.CircularGauge.Maui">
+        <img src="https://img.shields.io/badge/CircularGauge-Maui-brightgreen?logo=github" />
     </a>
 </div>
 
