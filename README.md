@@ -2,7 +2,7 @@
 
 - 😀 I am Julian Ewers-Peters
 - ⌨️ Currently I focus on C# .NET based technologies like Xamarin.Forms and .NET MAUI
-- 🤝 You can hire me for awesome freelance and collaboration projects
+- 🤝 You can hire me for awesome freelance and collaboration projects (depending on my availability)
 - ⚙️ I develop my own custom .NET MAUI controls to share them with the world
 - 📫 How to reach me: https://linkedin.com/in/jewerspeters
 - 🔭 I recently started a blog, check it out: https://ewerspej.hashnode.dev
