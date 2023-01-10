@@ -16,11 +16,11 @@ I am happy to help you get started, design and develop your app and push it to t
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Introduction to MVVM Source Generators for C# .NET](https://ewerspej.hashnode.dev/introduction-to-mvvm-source-generators-for-dotnet)
- - 🌮 [How to write a Custom Control for .NET MAUI using SkiaSharp](https://ewerspej.hashnode.dev/how-to-write-a-custom-control-for-net-maui-using-skiasharp)
- - 🚀 [Multi-Targeting in .NET MAUI - Part 2](https://ewerspej.hashnode.dev/multi-targeting-in-net-maui-part-2)
- - 💯 [Multi-Targeting in .NET MAUI - Part 1](https://ewerspej.hashnode.dev/multi-targeting-in-net-maui-part-1)
- - 💯 [Let&#39;s customize the Splash Screen of a MAUI app](https://ewerspej.hashnode.dev/lets-customize-the-splash-screen-of-a-maui-app)<!-- BLOGPOSTS:END -->
+ - 🔥 [MVVM Source Generators: Advanced Scenarios](https://ewerspej.hashnode.dev/mvvm-source-generators-advanced-scenarios)
+ - 🌮 [Introduction to MVVM Source Generators for C# .NET](https://ewerspej.hashnode.dev/introduction-to-mvvm-source-generators-for-dotnet)
+ - 🚀 [How to write a Custom Control for .NET MAUI using SkiaSharp](https://ewerspej.hashnode.dev/how-to-write-a-custom-control-for-net-maui-using-skiasharp)
+ - 💯 [Multi-Targeting in .NET MAUI - Part 2](https://ewerspej.hashnode.dev/multi-targeting-in-net-maui-part-2)
+ - 💯 [Multi-Targeting in .NET MAUI - Part 1](https://ewerspej.hashnode.dev/multi-targeting-in-net-maui-part-1)<!-- BLOGPOSTS:END -->
 
 ### Follow Me
 <div>
