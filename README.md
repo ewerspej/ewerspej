@@ -16,11 +16,11 @@ I am happy to help you get started, design and develop your app and push it to t
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Easily control the executability of Commands using MVVM Source Generators](https://ewerspej.hashnode.dev/easily-control-the-executability-of-commands-using-mvvm-source-generators)
- - 🌮 [A quick introduction to Compiled Bindings in .NET applications and why you should use them](https://ewerspej.hashnode.dev/a-quick-introduction-to-compiled-bindings)
- - 🚀 [MVVM Source Generators: Advanced Scenarios](https://ewerspej.hashnode.dev/mvvm-source-generators-advanced-scenarios)
- - 💯 [Introduction to MVVM Source Generators for C# .NET](https://ewerspej.hashnode.dev/introduction-to-mvvm-source-generators-for-dotnet)
- - 💯 [How to write a Custom Control for .NET MAUI using SkiaSharp](https://ewerspej.hashnode.dev/how-to-write-a-custom-control-for-net-maui-using-skiasharp)<!-- BLOGPOSTS:END -->
+ - 🔥 [Boost Your App&#39;s User Experience with Responsive Layouts for Portrait and Landscape Modes with .NET MAUI](https://ewerspej.hashnode.dev/add-responsive-layouts-to-your-maui-app)
+ - 🌮 [Easily control the executability of Commands using MVVM Source Generators](https://ewerspej.hashnode.dev/easily-control-the-executability-of-commands-using-mvvm-source-generators)
+ - 🚀 [A quick introduction to Compiled Bindings in .NET applications and why you should use them](https://ewerspej.hashnode.dev/a-quick-introduction-to-compiled-bindings)
+ - 💯 [MVVM Source Generators: Advanced Scenarios](https://ewerspej.hashnode.dev/mvvm-source-generators-advanced-scenarios)
+ - 💯 [Introduction to MVVM Source Generators for C# .NET](https://ewerspej.hashnode.dev/introduction-to-mvvm-source-generators-for-dotnet)<!-- BLOGPOSTS:END -->
 
 ### Follow Me
 <div>
