@@ -45,6 +45,11 @@ I am happy to help you get started, design and develop your app and push it to t
     </a>
 </div>
 
+### Some Stats 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ewerspej&count_private=true&showicons=true&hide=prs&theme=react)]()
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerspej&langs_count=5)]() -->
+
 <!--
 **ewerspej/ewerspej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
