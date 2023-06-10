@@ -16,11 +16,11 @@ I am happy to help you get started, design and develop your app and push it to t
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Customize the Title Bar of a MAUI app with these simple steps](https://ewerspej.hashnode.dev/customize-the-title-bar-of-a-maui-app-with-these-simple-steps)
- - 🌮 [Boost Your App&#39;s User Experience with Responsive Layouts for Portrait and Landscape Modes with .NET MAUI](https://ewerspej.hashnode.dev/add-responsive-layouts-to-your-maui-app)
- - 🚀 [Easily control the executability of Commands using MVVM Source Generators](https://ewerspej.hashnode.dev/easily-control-the-executability-of-commands-using-mvvm-source-generators)
- - 💯 [A quick introduction to Compiled Bindings in .NET applications and why you should use them](https://ewerspej.hashnode.dev/a-quick-introduction-to-compiled-bindings)
- - 💯 [MVVM Source Generators: Advanced Scenarios](https://ewerspej.hashnode.dev/mvvm-source-generators-advanced-scenarios)<!-- BLOGPOSTS:END -->
+ - 🔥 [Are you using Dependency Injection in your .NET MAUI app yet?](https://ewerspej.hashnode.dev/are-you-using-dependency-injection-in-your-net-maui-app-yet)
+ - 🌮 [Customize the Title Bar of a MAUI app with these simple steps](https://ewerspej.hashnode.dev/customize-the-title-bar-of-a-maui-app-with-these-simple-steps)
+ - 🚀 [Boost Your App&#39;s User Experience with Responsive Layouts for Portrait and Landscape Modes with .NET MAUI](https://ewerspej.hashnode.dev/add-responsive-layouts-to-your-maui-app)
+ - 💯 [Easily control the executability of Commands using MVVM Source Generators](https://ewerspej.hashnode.dev/easily-control-the-executability-of-commands-using-mvvm-source-generators)
+ - 💯 [A quick introduction to Compiled Bindings in .NET applications and why you should use them](https://ewerspej.hashnode.dev/a-quick-introduction-to-compiled-bindings)<!-- BLOGPOSTS:END -->
 
 ### Follow Me
 <div>
