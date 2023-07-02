@@ -4,13 +4,13 @@
 - ⌨️ Currently I focus on C# .NET based technologies like Xamarin.Forms and .NET MAUI
 - 🤝 You can hire me for awesome freelance and collaboration projects (depending on my availability)
 - ⚙️ I develop my own custom .NET MAUI controls to share them with the world
-- 📫 How to reach me: https://linkedin.com/in/jewerspeters
-- 🔭 I recently started a blog, check it out: https://ewerspej.hashnode.dev
+- 📫 You can reach me on [LinkedIn](https://linkedin.com/in/jewerspeters) or send me an [e-mail](mailto:julian@ewers-peters.de)
+- 🔭 Check out my [blog](https://blog.ewers-peters.de)
 - 🌱 I’m currently learning how to work around some of the intricate issues of .NET MAUI
 - 🤟 Apart from C# and C++, I speak German and English as well as some Spanish and Portuguese
 
 ### Cross-platform App Development
-Hit me up if you are interested in building a cross-platform app with Xamarin.Forms or .NET MAUI.
+Hit me up if you are interested in building a cross-platform app with .NET MAUI (or Xamarin.Forms).
 
 I am happy to help you get started, design and develop your app and push it to the app stores. 
 
