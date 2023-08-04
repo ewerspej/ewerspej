@@ -34,6 +34,9 @@ I am happy to help you get started, design and develop your app and push it to t
 
 ### Custom Controls for MAUI
 <div>
+    <a href="https://github.com/ewerspej/epj.Expander.Maui">
+        <img src="https://img.shields.io/badge/Expander-Maui-brightgreen?logo=github" />
+    </a>
     <a href="https://github.com/ewerspej/epj.ProgressBar.Maui">
         <img src="https://img.shields.io/badge/ProgressBar-Maui-brightgreen?logo=github" />
     </a>
