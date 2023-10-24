@@ -16,11 +16,11 @@ I am happy to help you get started, design and develop your app and push it to t
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Three ways to implement an accordion control](https://blog.ewers-peters.de/three-ways-to-implement-an-accordion-control)
- - 🌮 [Are you using Dependency Injection in your .NET MAUI app yet?](https://blog.ewers-peters.de/are-you-using-dependency-injection-in-your-net-maui-app-yet)
- - 🚀 [Customize the Title Bar of a MAUI app with these simple steps](https://blog.ewers-peters.de/customize-the-title-bar-of-a-maui-app-with-these-simple-steps)
- - 💯 [Boost Your App&#39;s User Experience with Responsive Layouts for Portrait and Landscape Modes with .NET MAUI](https://blog.ewers-peters.de/add-responsive-layouts-to-your-maui-app)
- - 💯 [Easily control the executability of Commands using MVVM Source Generators](https://blog.ewers-peters.de/easily-control-the-executability-of-commands-using-mvvm-source-generators)<!-- BLOGPOSTS:END -->
+ - 🔥 [Platform-specific XAML in .NET MAUI](https://blog.ewers-peters.de/platform-specific-xaml-in-net-maui)
+ - 🌮 [Three ways to implement an accordion control](https://blog.ewers-peters.de/three-ways-to-implement-an-accordion-control)
+ - 🚀 [Are you using Dependency Injection in your .NET MAUI app yet?](https://blog.ewers-peters.de/are-you-using-dependency-injection-in-your-net-maui-app-yet)
+ - 💯 [Customize the Title Bar of a MAUI app with these simple steps](https://blog.ewers-peters.de/customize-the-title-bar-of-a-maui-app-with-these-simple-steps)
+ - 💯 [Boost Your App&#39;s User Experience with Responsive Layouts for Portrait and Landscape Modes with .NET MAUI](https://blog.ewers-peters.de/add-responsive-layouts-to-your-maui-app)<!-- BLOGPOSTS:END -->
 
 ### Follow Me
 <div>
