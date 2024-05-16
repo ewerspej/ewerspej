@@ -16,11 +16,11 @@ I am happy to help you get started, design and develop your app and push it to t
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Add automatic route registration to your .NET MAUI app](https://blog.ewers-peters.de/add-automatic-route-registration-to-your-net-maui-app)
- - 🌮 [Introducing Route Generator for .NET](https://blog.ewers-peters.de/introducing-route-generator-for-net)
- - 🚀 [Platform-specific XAML in .NET MAUI](https://blog.ewers-peters.de/platform-specific-xaml-in-net-maui)
- - 💯 [Three ways to implement an accordion control](https://blog.ewers-peters.de/three-ways-to-implement-an-accordion-control)
- - 💯 [Are you using Dependency Injection in your .NET MAUI app yet?](https://blog.ewers-peters.de/are-you-using-dependency-injection-in-your-net-maui-app-yet)<!-- BLOGPOSTS:END -->
+ - 🔥 [Easily add a video reel to your MAUI app &lpar;like Instagram&rpar;](https://blog.ewers-peters.de/maui-video-reel)
+ - 🌮 [Add automatic route registration to your .NET MAUI app](https://blog.ewers-peters.de/add-automatic-route-registration-to-your-net-maui-app)
+ - 🚀 [Introducing Route Generator for .NET](https://blog.ewers-peters.de/introducing-route-generator-for-net)
+ - 💯 [Platform-specific XAML in .NET MAUI](https://blog.ewers-peters.de/platform-specific-xaml-in-net-maui)
+ - 💯 [Three ways to implement an accordion control](https://blog.ewers-peters.de/three-ways-to-implement-an-accordion-control)<!-- BLOGPOSTS:END -->
 
 ### Follow Me
 <div>
