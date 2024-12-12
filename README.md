@@ -16,11 +16,11 @@ I am happy to help you get started, design and develop your app and push it to t
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [White Labeling .NET MAUI Apps](https://blog.ewers-peters.de/white-labeling-net-maui-apps)
- - 🌮 [Easily add a video reel to your MAUI app &lpar;like Instagram&rpar;](https://blog.ewers-peters.de/maui-video-reel)
- - 🚀 [Add automatic route registration to your .NET MAUI app](https://blog.ewers-peters.de/add-automatic-route-registration-to-your-net-maui-app)
- - 💯 [Introducing Route Generator for .NET](https://blog.ewers-peters.de/introducing-route-generator-for-net)
- - 💯 [Platform-specific XAML in .NET MAUI](https://blog.ewers-peters.de/platform-specific-xaml-in-net-maui)<!-- BLOGPOSTS:END -->
+ - 🔥 [White Labeling .NET MAUI Apps](https://ewerspej.hashnode.dev/white-labeling-net-maui-apps)
+ - 🌮 [Easily add a video reel to your MAUI app &lpar;like Instagram&rpar;](https://ewerspej.hashnode.dev/maui-video-reel)
+ - 🚀 [Add automatic route registration to your .NET MAUI app](https://ewerspej.hashnode.dev/add-automatic-route-registration-to-your-net-maui-app)
+ - 💯 [Introducing Route Generator for .NET](https://ewerspej.hashnode.dev/introducing-route-generator-for-net)
+ - 💯 [Platform-specific XAML in .NET MAUI](https://ewerspej.hashnode.dev/platform-specific-xaml-in-net-maui)<!-- BLOGPOSTS:END -->
 
 ### Follow Me
 <div>
