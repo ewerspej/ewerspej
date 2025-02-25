@@ -1,8 +1,8 @@
 name: Hashnode Blog Posts
 on:
   schedule:
-    # Runs every day at 08:00
-    - cron: '0 8 * * *'
+    # Runs every day at 03:00
+    - cron: '0 3 * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOGPOSTS"
-          feed_list: "https://ewerspej.hashnode.dev/rss.xml"
+          feed_list: "https://blog.ewers-peters.de/rss.xml"
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
           commit_message: "recent posts section updated"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
