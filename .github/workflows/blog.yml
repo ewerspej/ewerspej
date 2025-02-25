@@ -10,10 +10,11 @@ jobs:
     name: Update this repo's README with the latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "BLOGPOSTS"
           feed_list: "https://blog.ewers-peters.de/rss.xml"
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
           commit_message: "recent posts section updated"
