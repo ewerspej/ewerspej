@@ -15,12 +15,13 @@ Hit me up if you are interested in building a cross-platform app with .NET MAUI 
 I am happy to help you get started, design and develop your app and push it to the app stores. 
 
 ### :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
+<!-- BLOG-POST-LIST:START -->
  - 🔥 [How to bind to functions from XAML in .NET MAUI](https://blog.ewers-peters.de/how-to-bind-to-functions-from-xaml-in-net-maui)
  - 🌮 [White Labeling .NET MAUI Apps](https://blog.ewers-peters.de/white-labeling-net-maui-apps)
  - 🚀 [Easily add a video reel to your MAUI app &lpar;like Instagram&rpar;](https://blog.ewers-peters.de/maui-video-reel)
  - 💯 [Add automatic route registration to your .NET MAUI app](https://blog.ewers-peters.de/add-automatic-route-registration-to-your-net-maui-app)
- - 💯 [Introducing Route Generator for .NET](https://blog.ewers-peters.de/introducing-route-generator-for-net)<!-- BLOGPOSTS:END -->
+ - 💯 [Introducing Route Generator for .NET](https://blog.ewers-peters.de/introducing-route-generator-for-net)
+<!-- BLOG-POST-LIST:END -->
 
 ### Follow Me
 <div>
