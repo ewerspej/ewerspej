@@ -21,7 +21,11 @@ I am happy to help you get started, design and develop your app and push it to t
  - 🚀 [Easily add a video reel to your MAUI app &lpar;like Instagram&rpar;](https://blog.ewers-peters.de/maui-video-reel)
  - 💯 [Add automatic route registration to your .NET MAUI app](https://blog.ewers-peters.de/add-automatic-route-registration-to-your-net-maui-app)
  - 💯 [Introducing Route Generator for .NET](https://blog.ewers-peters.de/introducing-route-generator-for-net)
-<!-- BLOG-POST-LIST:END -->
+ - 💫 [Platform-specific XAML in .NET MAUI](https://blog.ewers-peters.de/platform-specific-xaml-in-net-maui)
+ - 💫 [Three ways to implement an accordion control](https://blog.ewers-peters.de/three-ways-to-implement-an-accordion-control)
+ - 🔥 [Are you using Dependency Injection in your .NET MAUI app yet?](https://blog.ewers-peters.de/are-you-using-dependency-injection-in-your-net-maui-app-yet)
+ - 🌮 [Customize the Title Bar of a MAUI app with these simple steps](https://blog.ewers-peters.de/customize-the-title-bar-of-a-maui-app-with-these-simple-steps)
+ - 🌮 [Boost Your App&#39;s User Experience with Responsive Layouts for Portrait and Landscape Modes with .NET MAUI](https://blog.ewers-peters.de/add-responsive-layouts-to-your-maui-app)<!-- BLOG-POST-LIST:END -->
 
 ### Follow Me
 <div>
