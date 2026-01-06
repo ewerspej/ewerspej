@@ -1,13 +1,13 @@
 name: Hashnode Blog Posts
 on:
   schedule:
-    # Runs every day at 03:00
-    - cron: '0 5 * * *'
+    # Runs every day at 06:00
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with the latest blog posts
+    name: Update README with the latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
