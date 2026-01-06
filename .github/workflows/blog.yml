@@ -1,8 +1,8 @@
 name: Hashnode Blog Posts
 on:
   schedule:
-    # Runs every day at 06:00
-    - cron: '0 5 * * *'
+    # Runs every day at 04:00
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://ewerspej.hashnode.dev/rss.xml"
+          feed_list: "https://blog.ewers-peters.de/rss.xml"
           max_post_count: 10
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
           commit_message: "recent posts section updated"
