@@ -14,8 +14,9 @@ Hit me up if you are interested in building a cross-platform app with .NET MAUI 
 
 I am happy to help you get started, design and develop your app and push it to the app stores. 
 
-### :books: Recent Blog Posts
+<!-- ### :books: Recent Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
+<!--
  - 🔥 [How to bind to functions from XAML in .NET MAUI](https://blog.ewers-peters.de/how-to-bind-to-functions-from-xaml-in-net-maui)
  - 🌮 [White Labeling .NET MAUI Apps](https://blog.ewers-peters.de/white-labeling-net-maui-apps)
  - 🚀 [Easily add a video reel to your MAUI app &lpar;like Instagram&rpar;](https://blog.ewers-peters.de/maui-video-reel)
@@ -25,7 +26,9 @@ I am happy to help you get started, design and develop your app and push it to t
  - 💫 [Three ways to implement an accordion control](https://blog.ewers-peters.de/three-ways-to-implement-an-accordion-control)
  - 🔥 [Are you using Dependency Injection in your .NET MAUI app yet?](https://blog.ewers-peters.de/are-you-using-dependency-injection-in-your-net-maui-app-yet)
  - 🌮 [Customize the Title Bar of a MAUI app with these simple steps](https://blog.ewers-peters.de/customize-the-title-bar-of-a-maui-app-with-these-simple-steps)
- - 🌮 [Boost Your App&#39;s User Experience with Responsive Layouts for Portrait and Landscape Modes with .NET MAUI](https://blog.ewers-peters.de/add-responsive-layouts-to-your-maui-app)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Boost Your App&#39;s User Experience with Responsive Layouts for Portrait and Landscape Modes with .NET MAUI](https://blog.ewers-peters.de/add-responsive-layouts-to-your-maui-app)
+ -->
+ <!-- BLOG-POST-LIST:END -->
 
 ### Follow Me
 <div>
